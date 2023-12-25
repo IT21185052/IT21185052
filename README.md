@@ -26,7 +26,7 @@ Hey! , I'm Dhananjaya Yapa!
 
 <hr>
 
-### About me🧑:
+### 🧑 About me
 As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institute of Information Technology, I am deeply passionate about the field of software engineering. Well-versed in diverse development methodologies. I am eager to contribute to impactful projects and expand my skills in a dynamic team.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
@@ -38,7 +38,10 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
 - 📚 I’m a 3rd year Software Engineering undergraduate in SLIIT<br>
 - 🚀 Passionate about Java, and JavaScript <br>
 -💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5<br>
-- ⚡ Fun fact: I 💖 to code 24x7.<br>
+- ⚡ Fun fact: I 💖 to code 24x7.
+	<h1 align="left">
+	</h1>
+	<p align="left">
 - 📫 Reach me at <a href="mailto:tharudhananjaya2222@gmail.com">tharudhananjaya2222@gmail.com</a><br>
 - 😄 Find me on <a href="https://www.linkedin.com/in/dhananjaya-yapa-16b14221a/">Linkedin</a><br><br><br>
 
@@ -49,7 +52,7 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+### 🛠 &nbsp;Tools & Technologies 
 
 <br/>
 <br/>
@@ -79,6 +82,21 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
 <br>
 <br>
+<hr>
+
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/dhananjaya-yapa-16b14221a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:tharudhananjaya2222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href=https://www.facebook.com/profile.php?id=100013151715092><img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"alt="azzar"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href=https://www.instagram.com/mr_yapa/><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"alt="azzar"></img></a>
+<br>
+</p>
 <hr>
 </details>
 
