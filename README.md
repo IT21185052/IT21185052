@@ -42,7 +42,7 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
 	<h1 align="left">
 	</h1>
 	<p align="left">
-- 📫 Reach me at <a href="mailto:tharudhananjaya2222@gmail.com">tharudhananjaya2222@gmail.com</a><br>
+- 📫 Reach me at <a href="mailto:dhananjayayapa99@gmail.com">tharudhananjaya2222@gmail.com</a><br>
 - 😄 Find me on <a href="https://www.linkedin.com/in/dhananjaya-yapa-16b14221a/">Linkedin</a><br><br><br>
 
 <br>
@@ -91,7 +91,7 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/dhananjaya-yapa-16b14221a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:tharudhananjaya2222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:dhananjayayapa99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href=https://www.facebook.com/profile.php?id=100013151715092><img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"alt="azzar"></img></a>
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href=https://www.instagram.com/mr_yapa/><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"alt="azzar"></img></a>
