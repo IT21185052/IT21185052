@@ -42,7 +42,7 @@ As a dedicated BSc (Hons) Software Engineering student at the Sri Lankan Institu
 	<h1 align="left">
 	</h1>
 	<p align="left">
-- 📫 Reach me at <a href="mailto:dhananjayayapa99@gmail.com">tharudhananjaya2222@gmail.com</a><br>
+- 📫 Reach me at <a href="mailto:dhananjayayapa99@gmail.com">dhananjayayapa99@gmail.com</a><br>
 - 😄 Find me on <a href="https://www.linkedin.com/in/dhananjaya-yapa-16b14221a/">Linkedin</a><br><br><br>
 
 <br>
